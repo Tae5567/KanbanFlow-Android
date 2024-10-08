@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darker_gray">#A9A9A9</color>
+
+    <!-- Custom colours -->
+    <color name="boardBackgroundColor">#FEFAF9</color>     <!-- off-white for board background -->
+    <color name="columnBackground">#ECECEC</color>     <!--  for column background -->
+    <color name="toDoTasks">#32D9E6</color>     <!-- blue for to do tasks -->
+    <color name="doingTasks">#FD34B1</color>     <!-- pink for in progress tasks-->
+    <color name="doneTasks">#28D022</color>     <!-- green for done tasks -->
+</resources>
