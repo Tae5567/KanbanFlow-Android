@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927271151228",
+    "project_id": "project-management-syste-896af",
+    "storage_bucket": "project-management-syste-896af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927271151228:android:166f79a945f8ef63148bf9",
+        "android_client_info": {
+          "package_name": "com.example.kanban_firebase_projmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjkm4zECYT5Lo45HpgN3ESAiWXlBTPmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927271151228:android:8248fa2fff5451fc148bf9",
+        "android_client_info": {
+          "package_name": "com.example.projectmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjkm4zECYT5Lo45HpgN3ESAiWXlBTPmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
