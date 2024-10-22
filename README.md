@@ -19,19 +19,3 @@ Firebase Authentication: Manages user registration and login securely.
 Firebase Realtime Database: Ensures seamless and instantaneous data updates across multiple users.
 Cloud Functions: Used for backend logic, such as sending notifications when task statuses change.
 
-# How to Run
-Clone the repository:
-### How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/KanbanFlow-Android.git
-   cd KanbanFlow-Android
-
-2. **Set up Firebase**:
-
-Create a Firebase project and add your app to it.
-Download the google-services.json file and add it to your app's app/ directory.
-
-3. **Run the app**:
-
-Open the project in Android Studio and run it on an Android device or emulator.
